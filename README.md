@@ -1,4 +1,14 @@
-### zhangqian 的 model Test
 
-· 第一个model模型 感知机模型（原始，对偶）
-· 第二个model模型 k近邻（kd树）
+## 统计学习方法模型
+
+#### 第一章
+[感知机模型](https://github.com/zhangqian666/model_project/blob/master/statistics/perceptron/perceptron.py)
+
+- 原始形式
+- 对偶形式
+
+
+#### 第二章
+[k近邻模型](https://github.com/zhangqian666/model_project/blob/master/statistics/knn/knn_main.py)
+
+- kd树形式
