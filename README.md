@@ -12,3 +12,10 @@
 [k近邻模型](https://github.com/zhangqian666/model_project/blob/master/statistics/knn/knn_main.py)
 
 - kd树形式
+
+
+#### 第三章
+
+[朴素贝叶斯](https://github.com/zhangqian666/model_project/blob/master/statistics/native_bayes/bayes_main.py)
+
+- 贝叶斯估计
