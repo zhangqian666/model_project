@@ -107,7 +107,7 @@ def plot_result(data_mat, label_mat, weight, bias):
 
 
 if __name__ == "__main__":
-    dataMat, labelMat = load_data_set("statistics/perceptron/perceptron.csv")
+    dataMat, labelMat = load_data_set("./train_data.csv")
 
     weight, bias = train_perceptron(dataMat, labelMat, 0.1)
 
