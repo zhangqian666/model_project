@@ -19,3 +19,9 @@
 [朴素贝叶斯](https://github.com/zhangqian666/model_project/blob/master/statistics/native_bayes/bayes_main.py)
 
 - 贝叶斯估计
+
+#### 第四章
+
+[决策树](https://github.com/zhangqian666/model_project/blob/master/statistics/decistion_tree/decision_tree_main.py)
+
+- CART方法（无剪枝）
