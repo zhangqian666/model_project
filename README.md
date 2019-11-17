@@ -25,3 +25,7 @@
 [决策树](https://github.com/zhangqian666/model_project/blob/master/statistics/decistion_tree/decision_tree_main.py)
 
 - CART方法（无剪枝）
+
+#### 第五章
+
+[logistic](https://github.com/zhangqian666/model_project/blob/master/statistics/logistic/logistic.py)
