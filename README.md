@@ -29,3 +29,7 @@
 #### 第五章
 
 [logistic](https://github.com/zhangqian666/model_project/blob/master/statistics/logistic/logistic.py)
+
+#### 第六章
+
+[svm](https://github.com/zhangqian666/model_project/blob/master/statistics/svms/svm.py)
