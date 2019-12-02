@@ -33,3 +33,6 @@
 #### 第六章
 
 [svm](https://github.com/zhangqian666/model_project/blob/master/statistics/svms/svm.py)
+#### 第七章
+
+[adaboost](https://github.com/zhangqian666/model_project/blob/master/statistics/adaboost/adaboost.py)
