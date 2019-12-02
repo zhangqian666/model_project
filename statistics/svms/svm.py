@@ -35,3 +35,5 @@ clf = svm.SVC()
 clf.fit(X=train_data, y=train_target, sample_weight=None)
 result = clf.predict(test_data)
 print('预测结果：', result)
+
+
